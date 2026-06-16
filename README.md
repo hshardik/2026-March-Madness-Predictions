@@ -156,6 +156,16 @@ We trained the final model on all 1,152 historical rows and ran it on the **16 t
 
 ---
 
+## Visualizations
+
+<img src="images/Final Four Prediction.png" width="80%" alt="2026 Final Four Prediction">
+
+<img src="images/Seed Historical Analysis.png" width="80%" alt="Average Tournament Wins by Seed (2008–2025)">
+
+<img src="images/Overall Predictions.png" width="80%" alt="2026 Predictions — 16 Live Teams">
+
+---
+
 ## Key Insight
 
 > **The tournament doesn't reward style. It rewards preparation.**
